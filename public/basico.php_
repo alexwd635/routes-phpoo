@@ -1,0 +1,41 @@
+
+<?php
+ include_once './teste.php';
+
+ // Variavel
+ $name = 'Alex';
+ echo $name . ' Max';
+
+//  echo $person;
+
+//  echo gettype('teste');
+
+//  echo gettype(11.05);
+
+//  echo gettype(true);
+
+// echo gettype(['']);
+
+// class Person{ }
+// echo gettype(new Person);
+
+// echo gettype(null)
+
+// Constantes
+// define('NAME', 'ALEX');
+// echo DIRECTORY_SEPARATOR;
+// echo NAME;
+
+// if(defined('NAME')){
+//     echo 'Foi definido';
+// }
+
+
+// $cons = get_defined_constants(true);
+// var_dump($cons);
+
+
+
+
+
+
